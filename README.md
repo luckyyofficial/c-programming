@@ -7,10 +7,10 @@ This repo is created to help learners and developers master the C language throu
 
 ## 📂 Repository Structure
 
-- **`notes/`**  
+- **`notes`**  
   📖 Comprehensive notes and tutorials covering fundamental and advanced C concepts. Great for learning and quick revision.
 
-- **`projects/`**  
+- **`projects`**  
   💻 Practical C projects and exercises, ranging from beginner to intermediate level, with clean, well-commented source code.
 
 ---
