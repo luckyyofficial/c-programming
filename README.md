@@ -29,4 +29,4 @@ This repo is created to help learners and developers master the C language throu
 
 - Clone the repository:
   ```bash
-  git clone https://github.com/your-username/c-programming.git
+  git clone https://github.com/luckyyofficial/c-programming
