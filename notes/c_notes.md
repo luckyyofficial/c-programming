@@ -38,3 +38,96 @@ int main() {
 * **`int`**: A keyword for the integer data type (whole numbers).
 * **`int main()`**: The entry point/starting point of the program.
 * **`return 0;`**: Tells the OS the code ended without errors.
+
+
+# 💻 C Programming Notes
+
+> 🚀 Beginner → Advanced | Clean | Structured 
+
+---
+
+# 📌 1. Introduction to C
+
+C is a **powerful, fast, and low-level programming language** used in:
+
+* 🖥️ Operating Systems
+* 🔌 Embedded Systems
+* 🎮 Game Engines
+* ⚙️ System Software
+
+### ✨ Features
+
+* ⚡ Fast execution
+* 🔁 Portable
+* 🧠 Low-level memory control
+* 📚 Rich standard library
+
+---
+
+# 🧱 2. Basic Structure of a C Program
+
+```c
+#include <stdio.h>   // 🔗 Header file
+
+int main() {         // 🚪 Entry point
+    printf("Hello World");  // 🖨️ Output
+    return 0;        // ✅ Exit
+}
+```
+
+### 📝 Explanation
+
+* `#include` → Adds libraries
+* `main()` → Program starts here
+* `printf()` → Displays output
+* `return 0` → Successful execution
+
+---
+
+# 📊 3. Data Types
+
+| 🔢 Type | 💡 Example |
+| ------- | ---------- |
+| int     | 10         |
+| float   | 10.5       |
+| char    | 'A'        |
+| double  | 20.123     |
+
+```c
+int a = 10;
+float b = 5.5;
+char c = 'A';
+```
+
+---
+
+# 🧾 4. Variables & Constants
+
+### 🔹 Variable
+
+```c
+int age = 20;
+```
+
+### 🔸 Constant
+
+```c
+const float PI = 3.14;
+```
+
+---
+
+# ➕ 5. Operators
+
+### ⚙️ Types
+
+* ➕ Arithmetic → `+ - * / %`
+* 🔍 Relational → `== != > <`
+* 🔗 Logical → `&& || !`
+
+```c
+int a = 5, b = 3;
+printf("%d", a + b);
+```
+
+---
