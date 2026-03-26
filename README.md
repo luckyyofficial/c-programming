@@ -1,5 +1,5 @@
 # 💻 C Programming Notes Repository
-
+## 📚 [Click here to read the 'C' Programming Notes](https://github.com/luckyyofficial/c-programming/blob/main/notes/c_notes.md)
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="img/c_program.png" alt="C Badge"/></a>
 </p>
