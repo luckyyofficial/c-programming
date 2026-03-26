@@ -20,8 +20,6 @@ C is a **versatile** (adaptable) and **powerful** programming language that allo
 
 ---
 
-## 2. Basic Structure (Default Code)
-Every C program follows this fundamental template:
 
 
 
