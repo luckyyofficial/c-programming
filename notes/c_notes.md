@@ -23,22 +23,6 @@ C is a **versatile** (adaptable) and **powerful** programming language that allo
 ## 2. Basic Structure (Default Code)
 Every C program follows this fundamental template:
 
-```c
-#include <stdio.h> // Pre-processor directive for Input/Output
-
-int main() { 
-    // Code starts executing here
-    printf("Hello World");
-    return 0; // Indicates successful completion
-}
-
-### **Breakdown of Basic Code:**
-* **`#include`**: A file inclusion directive used to add header files.
-* **`<stdio.h>`**: Standard Input Output header; allows functions like `printf()` and `scanf()`.
-* **`int`**: A keyword for the integer data type (whole numbers).
-* **`int main()`**: The entry point/starting point of the program.
-* **`return 0;`**: Tells the OS the code ended without errors.
-
 
 
 # 🧱 2. Basic Structure of a C Program
@@ -50,6 +34,16 @@ int main() {         // 🚪 Entry point
     printf("Hello World");  // 🖨️ Output
     return 0;        // ✅ Exit
 }
+
+
+### **Breakdown of Basic Code:**
+* **`#include`**: A file inclusion directive used to add header files.
+* **`<stdio.h>`**: Standard Input Output header; allows functions like `printf()` and `scanf()`.
+* **`int`**: A keyword for the integer data type (whole numbers).
+* **`int main()`**: The entry point/starting point of the program.
+* **`return 0;`**: Tells the OS the code ended without errors.
+
+
 ```
 
 ### 📝 Explanation
