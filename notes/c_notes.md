@@ -40,29 +40,6 @@ int main() {
 * **`return 0;`**: Tells the OS the code ended without errors.
 
 
-# 💻 C Programming Notes
-
-> 🚀 Beginner → Advanced | Clean | Structured 
-
----
-
-# 📌 1. Introduction to C
-
-C is a **powerful, fast, and low-level programming language** used in:
-
-* 🖥️ Operating Systems
-* 🔌 Embedded Systems
-* 🎮 Game Engines
-* ⚙️ System Software
-
-### ✨ Features
-
-* ⚡ Fast execution
-* 🔁 Portable
-* 🧠 Low-level memory control
-* 📚 Rich standard library
-
----
 
 # 🧱 2. Basic Structure of a C Program
 
