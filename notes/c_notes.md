@@ -100,3 +100,14 @@ printf("%d", a + b);
 ```
 
 ---
+
+# ⌨️ 6. Input & Output
+
+```c
+int a;
+scanf("%d", &a);              // ⌨️ Input
+printf("Value: %d", a);       // 🖨️ Output
+```
+
+---
+
