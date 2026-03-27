@@ -111,3 +111,14 @@ printf("Value: %d", a);       // 🖨️ Output
 
 ---
 
+# 🔀 7. Control Statements
+
+## 🔹 if-else
+
+```c
+if(a > 10){
+    printf("Greater");
+}else{
+    printf("Smaller");
+}
+```
