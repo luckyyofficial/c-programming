@@ -131,3 +131,5 @@ if(a > 10){
 switch(a){
     case 1: printf("One"); break;
     default: printf("Other");
+}
+```
