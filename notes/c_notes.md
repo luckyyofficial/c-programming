@@ -122,3 +122,5 @@ if(a > 10){
     printf("Smaller");
 }
 ```
+
+## 🔸 switch
