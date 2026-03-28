@@ -126,3 +126,6 @@ if(a > 10){
 ## 🔸 switch
 
 ```c
+
+```c
+switch(a){
