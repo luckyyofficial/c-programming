@@ -133,3 +133,8 @@ switch(a){
     default: printf("Other");
 }
 ```
+
+
+## 🔁 Loops
+
+
