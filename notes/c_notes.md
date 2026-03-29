@@ -144,3 +144,8 @@ switch(a){
 for(int i=0; i<5; i++){
     printf("%d", i);
 }
+```
+
+### 🔸 while loop
+
+```c
