@@ -149,3 +149,7 @@ for(int i=0; i<5; i++){
 ### 🔸 while loop
 
 ```c
+while(i < 5){
+    i++;
+}
+```
