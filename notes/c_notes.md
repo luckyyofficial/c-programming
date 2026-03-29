@@ -138,3 +138,6 @@ switch(a){
 ## 🔁 Loops
 
 
+### 🔹 for loop
+
+```c
