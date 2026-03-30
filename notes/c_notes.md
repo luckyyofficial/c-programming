@@ -156,3 +156,5 @@ while(i < 5){
 
 # 🔁 8. Functions & Recursion
 
+## 🧩 Function
+
