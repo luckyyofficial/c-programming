@@ -158,3 +158,5 @@ while(i < 5){
 
 ## 🧩 Function
 
+```c
+int add(int a, int b){
