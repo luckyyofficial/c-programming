@@ -152,4 +152,7 @@ for(int i=0; i<5; i++){
 while(i < 5){
     i++;
 }
-```
+---
+
+# 🔁 8. Functions & Recursion
+
