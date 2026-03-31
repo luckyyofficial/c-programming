@@ -171,3 +171,6 @@ int result = add(2,3);
 ```
 
 ## 🔄 Recursion
+
+```c
+int fact(int n){
