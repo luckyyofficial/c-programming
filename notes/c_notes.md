@@ -193,3 +193,4 @@ printf("%p", p);   // 📍 Address
 
 ## 🔗 Pointer to Pointer
 
+```c
