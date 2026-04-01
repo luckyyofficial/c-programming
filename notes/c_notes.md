@@ -178,3 +178,11 @@ int fact(int n){
     return n * fact(n-1);
 }
 ```
+
+---
+
+# 🧠 9. Pointers (Core Concept)
+
+```c
+int a = 10;
+int *p = &a;
