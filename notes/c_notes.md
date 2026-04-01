@@ -186,3 +186,8 @@ int fact(int n){
 ```c
 int a = 10;
 int *p = &a;
+
+printf("%d", *p);  // 📌 Value
+printf("%p", p);   // 📍 Address
+```
+
