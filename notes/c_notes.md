@@ -191,3 +191,5 @@ printf("%d", *p);  // 📌 Value
 printf("%p", p);   // 📍 Address
 ```
 
+## 🔗 Pointer to Pointer
+
