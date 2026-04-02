@@ -204,3 +204,9 @@ int **pp = &p;
 ```c
 int arr[3] = {1,2,3};
 ```
+
+## 🔸 String
+
+```c
+char name[] = "Hello";
+```
