@@ -198,3 +198,9 @@ int **pp = &p;
 ```
 
 # 📦 10. Arrays & Strings
+
+## 🔹 Array
+
+```c
+int arr[3] = {1,2,3};
+```
