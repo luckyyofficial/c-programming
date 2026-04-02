@@ -196,3 +196,5 @@ printf("%p", p);   // 📍 Address
 ```c
 int **pp = &p;
 ```
+
+# 📦 10. Arrays & Strings
