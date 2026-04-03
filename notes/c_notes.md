@@ -210,3 +210,7 @@ int arr[3] = {1,2,3};
 ```c
 char name[] = "Hello";
 ```
+
+
+## 🧰 String Functions
+
