@@ -217,3 +217,5 @@ char name[] = "Hello";
 ```c
 #include <string.h>
 
+strlen(name);
+strcpy(dest, src);
