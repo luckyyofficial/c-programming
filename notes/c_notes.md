@@ -214,3 +214,6 @@ char name[] = "Hello";
 
 ## 🧰 String Functions
 
+```c
+#include <string.h>
+
