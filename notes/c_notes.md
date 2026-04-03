@@ -219,3 +219,5 @@ char name[] = "Hello";
 
 strlen(name);
 strcpy(dest, src);
+strcat(a, b);
+```
