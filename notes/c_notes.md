@@ -224,3 +224,10 @@ strcat(a, b);
 
 # 🏗️ 11. Structures & Unions
 
+## 🔹 Structure
+
+```c
+struct Student {
+    int id;
+    char name[20];
+};
