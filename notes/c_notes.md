@@ -231,3 +231,14 @@ struct Student {
     int id;
     char name[20];
 };
+```
+
+## 🔸 Union
+
+```c
+union Data {
+    int a;
+    float b;
+};
+```
+
