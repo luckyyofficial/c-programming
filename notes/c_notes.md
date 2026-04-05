@@ -221,3 +221,6 @@ strlen(name);
 strcpy(dest, src);
 strcat(a, b);
 ```
+
+# 🏗️ 11. Structures & Unions
+
