@@ -261,3 +261,4 @@ free(ptr);
 ptr = (int*) calloc(5, sizeof(int));   // 🟢 Initialize with 0
 ptr = realloc(ptr, 10 * sizeof(int));  // 🔄 Resize
 ```
+   
