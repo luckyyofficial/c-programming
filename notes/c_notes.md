@@ -248,3 +248,7 @@ union Data {
 ```c
 int *ptr;
 
+ptr = (int*) malloc(sizeof(int));
+*ptr = 10;
+
+
