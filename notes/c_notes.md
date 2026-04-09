@@ -240,5 +240,11 @@ union Data {
     int a;
     float b;
 };
+
 ```
+
+# ⚡ 12. Dynamic Memory Allocation (DMA)
+
+```c
+int *ptr;
 
