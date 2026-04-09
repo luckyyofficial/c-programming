@@ -252,3 +252,8 @@ ptr = (int*) malloc(sizeof(int));
 *ptr = 10;
 
 
+free(ptr);
+```
+
+### 🧩 Other Functions
+
