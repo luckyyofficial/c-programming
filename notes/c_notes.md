@@ -269,3 +269,8 @@ ptr = realloc(ptr, 10 * sizeof(int));  // 🔄 Resize
 ```c
 FILE *fp;
 
+fp = fopen("file.txt", "w");     // 📝 Write mode
+fprintf(fp, "Hello");
+fclose(fp);
+```
+
