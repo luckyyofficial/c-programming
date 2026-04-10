@@ -274,3 +274,11 @@ fprintf(fp, "Hello");
 fclose(fp);
 ```
 
+## 📖 Reading File
+
+```c
+fp = fopen("file.txt", "r");
+fscanf(fp, "%s", data);
+fclose(fp);
+```
+
