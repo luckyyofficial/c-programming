@@ -282,3 +282,17 @@ fscanf(fp, "%s", data);
 fclose(fp);
 ```
 
+---
+
+# 🗃️ 14. Storage Classes
+
+* 🔹 auto
+* 🔸 static
+* 🔹 extern
+* 🔸 register
+
+```c
+static int a = 10;
+```
+
+---
