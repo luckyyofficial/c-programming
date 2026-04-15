@@ -296,3 +296,13 @@ static int a = 10;
 ```
 
 ---
+
+# ⚙️ 15. Preprocessor Directives
+
+```c
+#define PI 3.14
+#include <stdio.h>
+```
+
+---
+
