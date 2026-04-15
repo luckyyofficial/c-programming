@@ -306,3 +306,12 @@ static int a = 10;
 
 ---
 
+# 🏷️ 16. Typedef
+
+```c
+typedef int num;
+num a = 10;
+```
+
+---
+
