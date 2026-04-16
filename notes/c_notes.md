@@ -321,3 +321,15 @@ num a = 10;
 enum Day {Mon, Tue, Wed};
 ```
 
+---
+
+# 🖥️ 18. Command Line Arguments
+
+```c
+int main(int argc, char *argv[]){
+    printf("%s", argv[1]);
+}
+```
+
+---
+
