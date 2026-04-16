@@ -315,3 +315,9 @@ num a = 10;
 
 ---
 
+# 📅 17. Enumerations
+
+```c
+enum Day {Mon, Tue, Wed};
+```
+
