@@ -23,7 +23,7 @@ This repository provides **clear**, **concise**, and **easy-to-understand** note
   <tr>
     <td>🔤 Basic Syntax & Data Types</td>
     <td>🧠 Functions & Memory Management</td>
-  </tr>
+  </tr>   
   <tr>
     <td>🧩 Arrays & Strings</td>
     <td>💾 Pointers & Dynamic Memory</td>
