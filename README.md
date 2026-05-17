@@ -15,7 +15,7 @@ This repository provides **clear**, **concise**, and **easy-to-understand** note
   <img src="img/c.png" width="120">
 </div>
 
----
+---  
 
 ## 📌 What’s Included?
 
