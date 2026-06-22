@@ -4,7 +4,7 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="img/c_program.png" alt="C Badge"/></a>
 </p>
 
-Welcome to the **C Programming Notes Repository**, a well-organized resource to help learners master the fundamentals of the **C programming language**.
+Welcome to the **C Programming Notes Repository**, a well-organized resource to help learners master the fundamentals of the **C programming language**.  
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to the **C Programming Notes Repository**, a well-organized resource to 
 This repository provides **clear**, **concise**, and **easy-to-understand** notes on C programming. Whether you're just starting out or looking to revise core concepts, these notes will serve as a great resource for your learning.
 
 <div align="center">
-  <img src="img/c.png" width="120">
+  <img src="img/c.png" width="120">  
 </div>
 
 ---  
@@ -21,12 +21,12 @@ This repository provides **clear**, **concise**, and **easy-to-understand** note
 
 <table align="center">
   <tr>
-    <td>🔤 Basic Syntax & Data Types</td>
+    <td>🔤 Basic Syntax & Data Types</td>  
     <td>🧠 Functions & Memory Management</td>
   </tr>   
   <tr>
     <td>🧩 Arrays & Strings</td>
-    <td>💾 Pointers & Dynamic Memory</td>
+    <td>💾 Pointers & Dynamic Memory</td>  
   </tr>
   <tr>
     <td>🔄 Loops & Conditionals</td>
