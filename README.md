@@ -4,19 +4,19 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="img/c_program.png" alt="C Badge"/></a>
 </p>
 
-Welcome to the **C Programming Notes Repository**, a well-organized resource to help learners master the fundamentals of the **C programming language**.  
+Welcome to the **C Programming Notes Repository**, a well-organized resource to help learners master the fundamentals of the **C programming language**.     
 
 ---
 
 ## 📖 About This Repository  
-This repository provides **clear**, **concise**, and **easy-to-understand** notes on C programming. Whether you're just starting out or looking to revise core concepts, these notes will serve as a great resource for your learning.
-
+This repository provides **clear**, **concise**, and **easy-to-understand** notes on C programming. Whether you're just starting out or looking to revise core concepts, these notes will serve as a great resource for your learning.   
+   
 <div align="center">
-  <img src="img/c.png" width="120">  
-</div>
-
----  
-
+  <img src="img/c.png" width="120">     
+</div>   
+   
+---     
+   
 ## 📌 What’s Included?
 
 <table align="center">
