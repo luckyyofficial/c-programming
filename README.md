@@ -18,15 +18,15 @@ This repository provides **clear**, **concise**, and **easy-to-understand** note
 ---     
    
 ## 📌 What’s Included?
-
-<table align="center">
-  <tr>
-    <td>🔤 Basic Syntax & Data Types</td>  
-    <td>🧠 Functions & Memory Management</td>
-  </tr>   
-  <tr>
-    <td>🧩 Arrays & Strings</td>
-    <td>💾 Pointers & Dynamic Memory</td>  
+   
+<table align="center">   
+  <tr>   
+    <td>🔤 Basic Syntax & Data Types</td>     
+    <td>🧠 Functions & Memory Management</td>   
+  </tr>      
+  <tr>   
+    <td>🧩 Arrays & Strings</td>  
+    <td>💾 Pointers & Dynamic Memory</td>    
   </tr>
   <tr>
     <td>🔄 Loops & Conditionals</td>
