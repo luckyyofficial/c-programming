@@ -20,7 +20,7 @@ int main (){
     
     // float
     char c = 'A';    // Used to store alphabets
-
+ 
 
 
     return 0;
